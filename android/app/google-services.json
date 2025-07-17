@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006562188587",
+    "project_id": "sign-up-27055",
+    "storage_bucket": "sign-up-27055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006562188587:android:c0977e932b12b919b9796e",
+        "android_client_info": {
+          "package_name": "com.example.smart_car_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCdzCzFB_PoTwOSDbViUszePdxg5WVGEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
